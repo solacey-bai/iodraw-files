@@ -22,9 +22,6 @@
         <mxCell id="2KOHLqC-taPSohv--Y2K-10" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgb(29, 29, 31); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 13px; font-weight: 600; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;MLP Backbone&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgb(29, 29, 31); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 13px; font-weight: 600; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="220" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2KOHLqC-taPSohv--Y2K-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2KOHLqC-taPSohv--Y2K-11" target="2KOHLqC-taPSohv--Y2K-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="2KOHLqC-taPSohv--Y2K-11" value="&lt;span style=&quot;color: rgb(29, 29, 31); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 11px; text-align: start; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;2-layer · 256-dim · LayerNorm&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="205" y="240" width="60" height="30" as="geometry" />
         </mxCell>
@@ -35,7 +32,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2KOHLqC-taPSohv--Y2K-15" value="&lt;span style=&quot;color: rgb(29, 29, 31); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 13px; text-align: start; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Linear Head&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="175" y="310" width="120" height="30" as="geometry" />
+          <mxGeometry x="175" y="300" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2KOHLqC-taPSohv--Y2K-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
