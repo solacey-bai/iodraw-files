@@ -13,10 +13,10 @@
         <mxCell id="2KOHLqC-taPSohv--Y2K-6" value="&lt;span style=&quot;color: rgb(29, 29, 31); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; font-weight: 600; text-align: start; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Point-Estimate IDM (Traditional)&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="205" y="130" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2KOHLqC-taPSohv--Y2K-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="2KOHLqC-taPSohv--Y2K-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="389" y="480" as="sourcePoint" />
-            <mxPoint x="390" y="520" as="targetPoint" />
+            <mxPoint x="390" y="420" as="sourcePoint" />
+            <mxPoint x="390" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
