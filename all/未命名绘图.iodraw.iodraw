@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2KOHLqC-taPSohv--Y2K-1" value="&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="105" y="120" width="260" height="320" as="geometry" />
+        </mxCell>
         <mxCell id="2KOHLqC-taPSohv--Y2K-2" value="&lt;span style=&quot;color: rgb(29, 29, 31); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 13px; text-align: start; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;(s_t, s_{t+1})&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="175" y="160" width="120" height="30" as="geometry" />
         </mxCell>
@@ -42,6 +45,9 @@
         </mxCell>
         <mxCell id="2KOHLqC-taPSohv--Y2K-19" value="&lt;span style=&quot;font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; text-align: start; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font color=&quot;#ff3333&quot;&gt;Cannot distinguish multi-modal actions&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="410" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2KOHLqC-taPSohv--Y2K-20" value="&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="105" y="120" width="260" height="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
