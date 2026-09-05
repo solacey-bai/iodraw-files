@@ -79,6 +79,9 @@
             <mxPoint x="546" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="2KOHLqC-taPSohv--Y2K-33" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="466.5" y="360" width="160" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
