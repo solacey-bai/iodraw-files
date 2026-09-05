@@ -49,8 +49,8 @@
         <mxCell id="2KOHLqC-taPSohv--Y2K-25" value="&lt;span style=&quot;color: rgb(29, 29, 31); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; font-weight: 600; text-align: start; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Distributional GMM-IDM (Ours)&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="516.5" y="130" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2KOHLqC-taPSohv--Y2K-26" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="330" width="120" height="60" as="geometry" />
+        <mxCell id="2KOHLqC-taPSohv--Y2K-26" value="&lt;span style=&quot;color: rgb(29, 29, 31); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 13px; font-weight: 600; text-align: start; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;MLP Backbone&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="220" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
