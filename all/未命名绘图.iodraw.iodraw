@@ -40,6 +40,9 @@
         <mxCell id="2KOHLqC-taPSohv--Y2K-18" value="&lt;span style=&quot;color: rgb(29, 29, 31); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 13px; text-align: start; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;â ∈ R^A (single action)&lt;/b&gt;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="155" y="360" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="2KOHLqC-taPSohv--Y2K-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2KOHLqC-taPSohv--Y2K-19" target="2KOHLqC-taPSohv--Y2K-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2KOHLqC-taPSohv--Y2K-19" value="&lt;span style=&quot;font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; text-align: start; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font color=&quot;#ff3333&quot;&gt;&lt;b&gt;Cannot distinguish multi-modal actions&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="410" width="60" height="30" as="geometry" />
         </mxCell>
@@ -86,7 +89,7 @@
           <mxGeometry x="516.5" y="365" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2KOHLqC-taPSohv--Y2K-35" value="&lt;span style=&quot;font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; text-align: start; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#009900&quot;&gt;Multi-modal · Entropy · Confidence&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="530" y="410" width="60" height="20" as="geometry" />
+          <mxGeometry x="520" y="410" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
