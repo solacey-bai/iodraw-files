@@ -19,8 +19,8 @@
             <mxPoint x="234.5" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2KOHLqC-taPSohv--Y2K-10" value="&lt;span style=&quot;color: rgb(29, 29, 31); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 13px; text-align: start; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;(s_t, s_{t+1})&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="175" y="160" width="120" height="30" as="geometry" />
+        <mxCell id="2KOHLqC-taPSohv--Y2K-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="220" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
