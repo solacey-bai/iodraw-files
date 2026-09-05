@@ -49,9 +49,6 @@
         <mxCell id="2KOHLqC-taPSohv--Y2K-20" value="&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="414" y="120" width="260" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="2KOHLqC-taPSohv--Y2K-21" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_rect" vertex="1" parent="1">
-          <mxGeometry x="360" y="320" width="120" height="90" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
