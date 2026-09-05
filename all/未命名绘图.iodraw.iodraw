@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="oN6Iv2SxIW0EACeOxqBr-3" value="(s_t, s_{t+1}) &#xa;             │&#xa;      ┌──────▼──────┐&#xa;      │   IDM Trunk │&#xa;      └──────┬──────┘&#xa;             │&#xa;      ┌──────▼───────────────────────────────────┐&#xa;      │ GMM Distributional Head (K=5 Components) │&#xa;      └──────┬───────────────────────────────────┘&#xa;             ├──────────────────────────┐&#xa;             ▼                          ▼&#xa;   Action Distribution P(a|s)     Differential Entropy H(p)&#xa;             │                          │&#xa;             ▼                          ▼&#xa;      Bayesian Scoring          Adaptive Weighting w&#xa;             │                          │&#xa;             └────────────┬─────────────┘&#xa;                          ▼&#xa;               World Model Optimization" style="text;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="90" y="120" width="430" height="300" as="geometry" />
+        <mxCell id="2KOHLqC-taPSohv--Y2K-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
