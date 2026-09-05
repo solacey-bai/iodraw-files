@@ -13,8 +13,8 @@
         <mxCell id="2KOHLqC-taPSohv--Y2K-3" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="140" width="230" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="2KOHLqC-taPSohv--Y2K-4" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="360" width="120" height="60" as="geometry" />
+        <mxCell id="2KOHLqC-taPSohv--Y2K-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="360" y="360" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
