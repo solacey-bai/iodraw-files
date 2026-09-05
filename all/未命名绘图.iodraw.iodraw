@@ -19,10 +19,10 @@
             <mxPoint x="390" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2KOHLqC-taPSohv--Y2K-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="2KOHLqC-taPSohv--Y2K-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="2KOHLqC-taPSohv--Y2K-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="420" as="sourcePoint" />
-            <mxPoint x="440" y="370" as="targetPoint" />
+            <mxPoint x="390" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
